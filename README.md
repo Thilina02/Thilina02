@@ -1,7 +1,7 @@
 <img style="margin-left: 20wh; display: block; margin-right: auto; margin-left: auto;" align="center" alt="coding" width="1000" height="400" src="https://images.unsplash.com/photo-1518893494013-481c1d8ed3fd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnVsbCUyMHN0YWNrJTIwZGV2ZWxvcGVyJTIwd3JpdHRlbiUyMGltYWdlcyUyMHdvcmRzfGVufDB8fDB8fHww">
 <h1 align="center">Hi 👋, I'm Thilina Perera</h1>
-<h3 align="center">I am a full stack software engineer.</h3>
-<img align="center" alt="coding" width="1000" height="500" src="https://plus.unsplash.com/premium_photo-1663023612721-e588768ef403?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZ1bGwlMjBzdGFjayUyMGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D">
+<h3 align="center">A passionate Full Stack Engineer.</h3>
+<img align="right" alt="coding" width="500" height="500" src="https://plus.unsplash.com/premium_photo-1685086785013-acc71c40e5fe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGZ1bGwlMjBzdGFjayUyMGRldmVsb3BlciUyMGdpZnxlbnwwfHwwfHx8MA%3D%3D">
 
 
 
@@ -16,8 +16,6 @@
 - 🌱 I’m currently learning **Flutter,Angular,laravel,Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thilina02](https://github.com/Thilina02)
-
-- 💬 Ask me about **Android, MEARN**
 
 - 📫 How to reach me **pererathilina2001@gmail.com**
 
