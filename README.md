@@ -1,4 +1,4 @@
-<img style="margin-left: 20wh; display: block; margin-right: auto; margin-left: auto;" align="center" alt="coding" width="1000" height="400" src="https://images.unsplash.com/photo-1518893494013-481c1d8ed3fd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnVsbCUyMHN0YWNrJTIwZGV2ZWxvcGVyJTIwd3JpdHRlbiUyMGltYWdlcyUyMHdvcmRzfGVufDB8fDB8fHww">
+<img style="margin-left: 20wh; display: block; margin-right: auto; margin-left: auto;" align="center" alt="coding" width="1000" height="400" src="https://img.freepik.com/premium-vector/web-development-concept-with-plexus-background-seo-website-app-design-digital-network-design_618588-1215.jpg?size=626&ext=jpg&ga=GA1.1.765711627.1719046303&semt=ais_user">
 <h1 align="center">Hi 👋, I'm Thilina Perera</h1>
 <h3 align="center">A passionate Full Stack Engineer.</h3>
 <img align="right" alt="coding" width="500" height="500" src="https://plus.unsplash.com/premium_photo-1685086785013-acc71c40e5fe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGZ1bGwlMjBzdGFjayUyMGRldmVsb3BlciUyMGdpZnxlbnwwfHwwfHx8MA%3D%3D">
