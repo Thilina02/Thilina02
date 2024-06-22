@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Thilina Perera</h1>
 <h3 align="center">I am a full stack software engineer.</h3>
-<img aligh="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ptZzQ5ZHA5YjZsbDd1OTVvYmdqMXpuY3lqdzAxZjRybTN0MjU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img align="center" alt="coding" width="400" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=ecf05e47arwocw14atx3laezhnlg9t2xlt6gy3yo5f48uiwr&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina02&label=Profile%20views&color=0e75b6&style=flat" alt="thilina02" /> </p>
