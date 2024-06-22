@@ -1,7 +1,7 @@
 <img style="margin-left: 20wh; display: block; margin-right: auto; margin-left: auto;" align="center" alt="coding" width="1000" height="400" src="https://images.unsplash.com/photo-1518893494013-481c1d8ed3fd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnVsbCUyMHN0YWNrJTIwZGV2ZWxvcGVyJTIwd3JpdHRlbiUyMGltYWdlcyUyMHdvcmRzfGVufDB8fDB8fHww">
 <h1 align="center">Hi 👋, I'm Thilina Perera</h1>
 <h3 align="center">I am a full stack software engineer.</h3>
-<img style="margin-left: 20wh; display: block; margin-right: auto; margin-left: auto;" align="center" alt="coding" width="1000" src="https://media0.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp?cid=ecf05e47zk1wt84n72fw03n52bazq9rw19497gebi9f5082s&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align="center" alt="coding" width="1000" height="500" src="https://plus.unsplash.com/premium_photo-1663023612721-e588768ef403?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZ1bGwlMjBzdGFjayUyMGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D">
 
 
 
